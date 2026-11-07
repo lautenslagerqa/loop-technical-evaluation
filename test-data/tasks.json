@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Implement user authentication is in To Do with Feature and High Priority tags",
+    "project": "Web Application",
+    "task": "Implement user authentication",
+    "column": "To Do",
+    "tags": ["Feature", "High Priority"]
+  },
+  {
+    "name": "Fix navigation bug is in To Do with Bug tag",
+    "project": "Web Application",
+    "task": "Fix navigation bug",
+    "column": "To Do",
+    "tags": ["Bug"]
+  },
+  {
+    "name": "Design system updates is in In Progress with Design tag",
+    "project": "Web Application",
+    "task": "Design system updates",
+    "column": "In Progress",
+    "tags": ["Design"]
+  },
+  {
+    "name": "Push notification system is in To Do with Feature tag",
+    "project": "Mobile Application",
+    "task": "Push notification system",
+    "column": "To Do",
+    "tags": ["Feature"]
+  },
+  {
+    "name": "Offline mode is in In Progress with Feature and High Priority tags",
+    "project": "Mobile Application",
+    "task": "Offline mode",
+    "column": "In Progress",
+    "tags": ["Feature", "High Priority"]
+  },
+  {
+    "name": "App icon design is in Done with Design tag",
+    "project": "Mobile Application",
+    "task": "App icon design",
+    "column": "Done",
+    "tags": ["Design"]
+  }
+]
